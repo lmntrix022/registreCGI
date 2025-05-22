@@ -1,7 +1,4 @@
-Avec plaisir ! 🔥  
-Puisque tu veux un **README** pour ton projet de registre d'entrée/sortie **simple**, **corporate**, et **propre**, voici un modèle que tu pourras adapter :
 
----
 
 # 📖 Registre Digital des Visiteurs - Centre Gabonais de l'Innovation
 
